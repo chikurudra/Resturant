@@ -19,4 +19,4 @@
 .Img Supported
 .css Easy to Read & Edit
 
-# Any 80% type of Ida Tool You Can Use 
+# Any 80% type of Ide Tool You Can Use 
